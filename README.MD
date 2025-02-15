@@ -12,3 +12,11 @@ git branch -M develop
 git remote add origin https://github.com/Tarrou501/bootstrap-local.git
 git -m commit 'doc: added readme'
 git push -u origin develop 
+
+---------------------------
+cd automatico
+pasta automativo
+
+npm init -y
+npm i bootstrap
+npm i
